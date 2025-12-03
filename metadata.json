@@ -1,0 +1,5 @@
+{
+  "name": "DinePilot - Indian Restaurant System",
+  "description": "A multi-role restaurant management system for Customers, Chefs, and Managers featuring a simulated AWS backend, order tracking, and DevOps documentation.",
+  "requestFramePermissions": []
+}

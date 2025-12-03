@@ -1,0 +1,11 @@
+# Ignore node modules and build artifacts in Docker
+node_modules/
+dist/
+.env.local
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.git
+.gitignore
+.DS_Store
